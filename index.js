@@ -16,5 +16,5 @@ return array
 }
 
 function iLoveTheBeatles(number) {
-
+var emptyArray=[];
 }
