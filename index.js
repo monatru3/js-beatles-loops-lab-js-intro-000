@@ -18,7 +18,8 @@ return array
 function iLoveTheBeatles(number) {
 var emptyArray=[];
   do{
-    array.push("I love the Beatles!")
+    emptyArray.push("I love the Beatles!")
+    number++
   } while (number<15);
   return emptyArray
 }
