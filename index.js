@@ -17,4 +17,7 @@ return array
 
 function iLoveTheBeatles(number) {
 var emptyArray=[];
+do{
+  array.push("I love the Beatles!")
+}
 }
